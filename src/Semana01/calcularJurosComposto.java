@@ -1,5 +1,4 @@
-package br.com.devsdoagi.ExercPart3;
-
+package Semana01;
 public class calcularJurosComposto {
     public static double conversao8(double capitalInicial, double taxaMensal, int meses) {
         double fator = 1.0;

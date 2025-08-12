@@ -1,5 +1,4 @@
-package br.com.devsdoagi.ExercPart3;
-
+package Semana01;
 import java.util.Scanner;
 
 import static br.com.devsdoagi.ExercPart3.compararAtivos.conversao5;

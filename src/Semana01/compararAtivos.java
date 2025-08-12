@@ -1,5 +1,4 @@
-package br.com.devsdoagi.ExercPart3;
-
+package Semana01;
 public class compararAtivos {
     public static double conversao5(double ativo1, double ativo2) {
 

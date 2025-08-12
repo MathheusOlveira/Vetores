@@ -1,5 +1,4 @@
-package br.com.devsdoagi.ExercPart1;
-
+package Semana01;
 import java.util.Scanner;
 
 public class exerc1 {

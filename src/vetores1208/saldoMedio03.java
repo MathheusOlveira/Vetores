@@ -2,7 +2,7 @@ package vetores1208;
 
 import java.util.Arrays;
 
-public class saldoMedio {
+public class saldoMedio03 {
     public static void preencherMatriz3(double[][] matriz) {
 
         matriz[0][0] = 150.0;

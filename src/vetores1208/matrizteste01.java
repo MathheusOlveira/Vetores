@@ -1,6 +1,6 @@
 package vetores1208;
 
-public class matrizteste {
+public class matrizteste01 {
     public static void preencherMatriz(double[][]matriz){
         matriz[0][0] = 150;
         matriz[0][1] = 50;

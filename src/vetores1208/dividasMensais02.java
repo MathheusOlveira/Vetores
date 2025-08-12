@@ -1,6 +1,6 @@
 package vetores1208;
 
-public class dividasMensais {
+public class dividasMensais02 {
     public static void preencherMatriz2(double[][] matriz) {
 
         matriz[0][0] = 150;

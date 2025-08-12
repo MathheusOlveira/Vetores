@@ -1,6 +1,6 @@
 package vetores1208;
 
-public class menorValor {
+public class menorValor04 {
     public static void preencherMatriz(double[][]matriz){
 
         matriz[0][0] = 150;

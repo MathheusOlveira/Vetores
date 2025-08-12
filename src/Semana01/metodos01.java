@@ -2,9 +2,10 @@ package Semana01;
 
 import java.util.Scanner;
 
-import static br.com.devsdoagi.ExercPart3.converterMoeda.conversao1;
+import static Semana01.converterMoeda.conversao1;
 
- public class metodos01 {
+
+public class metodos01 {
     public static void main(String[] args){
         double a,b;
         Scanner sc = new Scanner(System.in);

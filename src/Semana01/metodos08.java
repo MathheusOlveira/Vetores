@@ -1,7 +1,7 @@
 package Semana01;
 import java.util.Scanner;
 
-import static br.com.devsdoagi.ExercPart3.calcularJurosComposto.conversao8;
+import static Semana01.calcularJurosComposto.conversao8;
 
 public class metodos08 {
     public static void main(String[] args) {

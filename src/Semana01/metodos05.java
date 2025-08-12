@@ -1,7 +1,7 @@
 package Semana01;
 import java.util.Scanner;
 
-import static br.com.devsdoagi.ExercPart3.compararAtivos.conversao5;
+import static Semana01.compararAtivos.conversao5;
 
 public class metodos05{
     public static void main(String[] args){

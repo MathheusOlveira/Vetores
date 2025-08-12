@@ -1,7 +1,7 @@
 package Semana01;
 import java.util.Scanner;
 
-import static br.com.devsdoagi.ExercPart3.calcularCrescimento.conversao3;
+import static Semana01.calcularCrescimento.conversao3;
 
 public class metodos03{
     public static void main(String[] args){
